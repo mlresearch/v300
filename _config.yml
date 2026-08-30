@@ -1,0 +1,100 @@
+---
+booktitle: Proceedings of The 29th International Conference on Artificial Intelligence
+  and Statistics
+shortname: AISTATS
+volume: '300'
+year: '2026'
+start: &1 2026-05-02
+end: 2026-05-05
+published: 2026-08-30
+location: Tangier, Morocco
+conference_number: '29'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: AISTATS-2026
+month: 0
+cycles: false
+bibtex_editor: Khan, Emtiyaz and Li, Yingzhen and Solin, Arno and Ramdas, Aaditya
+editor:
+- given: Emtiyaz
+  family: Khan
+- given: Yingzhen
+  family: Li
+- given: Arno
+  family: Solin
+- given: Aaditya
+  family: Ramdas
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 29th International Conference on Artificial Intelligence and Statistics
+    Held in Hilton Tanger Al Houara, Morocco on 02-05 May 2026
+
+  Published as Volume 300 by the Proceedings of Machine Learning Research on 30 August 2026.
+
+  Volume Edited by:
+    Emtiyaz Khan
+    Yingzhen Li
+    Arno Solin
+    Aaditya Ramdas
+
+  Series Editors:
+    Tegan Emerson
+    Hoel Kervadec
+    Neil D. Lawrence
+date_str: 02--05 May
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v300"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v300
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v300
+email: ''
+conference:
+  name: International Conference on Artificial Intelligence and Statistics
+  url: https://virtual.aistats.org/Conferences/2026
+  location: Hilton Tanger Al Houara, Morocco
+  dates:
+  - *1
+  - 2026-05-03
+  - 2026-05-04
+  - 2026-05-05
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: aistats26_clean.bib
+# Site settings
+# Original source:  aistats26_clean.bib
