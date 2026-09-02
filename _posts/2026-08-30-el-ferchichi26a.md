@@ -23,14 +23,14 @@ lastpage: 4617
 page: 4609-4617
 order: 4609
 cycles: false
-bibtex_author: El Ferchichi, Hafedh and Perchet, Vianney and LERASLE, Matthieu
+bibtex_author: El Ferchichi, Hafedh and Perchet, Vianney and Lerasle, Matthieu
 author:
 - given: Hafedh
   family: El Ferchichi
 - given: Vianney
   family: Perchet
 - given: Matthieu
-  family: LERASLE
+  family: Lerasle
 date: 2026-08-30
 address:
 container-title: Proceedings of The 29th International Conference on Artificial Intelligence

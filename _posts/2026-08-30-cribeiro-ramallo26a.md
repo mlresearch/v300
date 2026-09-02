@@ -25,7 +25,7 @@ page: 901-909
 order: 901
 cycles: false
 bibtex_author: Cribeiro-Ramallo, Jose and Aich, Agnideep and Kalinke, Florian and
-  AICH, ASHIT BARAN and Szab{\'o}, Zolt{\'a}n
+  Aich, Ashit Baran and Szab{\'o}, Zolt{\'a}n
 author:
 - given: Jose
   family: Cribeiro-Ramallo
@@ -33,8 +33,8 @@ author:
   family: Aich
 - given: Florian
   family: Kalinke
-- given: ASHIT BARAN
-  family: AICH
+- given: Ashit Baran
+  family: Aich
 - given: Zoltán
   family: Szabó
 date: 2026-08-30
