@@ -1,5 +1,5 @@
 ---
-title: " Beyond ReLU: How Activations Affect  Neural Kernels and Random Wide Networks "
+title: " Beyond ReLU: How Activations Affect Neural Kernels and Random Wide Networks "
 openreview: aRxjE5hQLA
 abstract: " In recent years, the neural tangent kernel (NTK) and neural network Gaussian
   process kernel (NNGP) have given theoreticians tractable limiting cases of fully
@@ -21,7 +21,7 @@ publisher: PMLR
 issn: 2640-3498
 id: holzmuller26a
 month: 0
-tex_title: " Beyond ReLU: How Activations Affect  Neural Kernels and Random Wide Networks "
+tex_title: " Beyond ReLU: How Activations Affect Neural Kernels and Random Wide Networks "
 firstpage: 3403
 lastpage: 3411
 page: 3403-3411

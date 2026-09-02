@@ -1,5 +1,5 @@
 ---
-title: " A projection-based framework for gradient-free and parallel learning "
+title: " A Projection-Based Framework for Gradient-Free and Parallel Learning "
 openreview: 2OaL8xOlh3
 abstract: " We present a feasibility-seeking approach to neural network training.
   This mathematical optimization framework is distinct from conventional gradient-based
@@ -22,7 +22,7 @@ publisher: PMLR
 issn: 2640-3498
 id: bergmeister26a
 month: 0
-tex_title: " A projection-based framework for gradient-free and parallel learning "
+tex_title: " A Projection-Based Framework for Gradient-Free and Parallel Learning "
 firstpage: 2746
 lastpage: 2754
 page: 2746-2754

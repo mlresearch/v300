@@ -1,6 +1,6 @@
 ---
-title: " Prior shift estimation for positive unlabeled data through the lens of kernel
-  embedding "
+title: " Prior Shift Estimation for Positive Unlabeled Data Through the Lens of Kernel
+  Embedding "
 openreview: 40aNv2nho5
 abstract: " We study estimation  of a class prior  for unlabeled target samples which
   \ possibly differs from that of source population. Moreover, it is assumed that
@@ -20,8 +20,8 @@ publisher: PMLR
 issn: 2640-3498
 id: mielniczuk26a
 month: 0
-tex_title: " Prior shift estimation for positive unlabeled data through the lens of
-  kernel embedding "
+tex_title: " Prior Shift Estimation for Positive Unlabeled Data Through the Lens of
+  Kernel Embedding "
 firstpage: 640
 lastpage: 648
 page: 640-648
