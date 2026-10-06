@@ -4,7 +4,7 @@ booktitle: Proceedings of The 29th International Conference on Artificial Intell
 shortname: AISTATS
 volume: '300'
 year: '2026'
-start: &1 2026-05-02
+start: 2026-05-02
 end: 2026-05-05
 published: 2026-08-30
 location: Tangier, Morocco
@@ -79,7 +79,7 @@ conference:
   url: https://virtual.aistats.org/Conferences/2026
   location: Hilton Tanger Al Houara, Morocco
   dates:
-  - *1
+  - 2026-05-02
   - 2026-05-03
   - 2026-05-04
   - 2026-05-05
