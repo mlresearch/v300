@@ -29,7 +29,7 @@ editor:
 title: Proceedings of Machine Learning Research
 description: |
   Proceedings of The 29th International Conference on Artificial Intelligence and Statistics
-    Held in Hilton Tanger Al Houara, Morocco on 02-05 May 2026
+    Held in Hilton Tangier Al Houara Hotel, Morocco on 02-05 May 2026
 
   Published as Volume 300 by the Proceedings of Machine Learning Research on 30 August 2026.
 
@@ -77,7 +77,7 @@ email: ''
 conference:
   name: International Conference on Artificial Intelligence and Statistics
   url: https://virtual.aistats.org/Conferences/2026
-  location: Hilton Tanger Al Houara, Morocco
+  location: Hilton Tangier Al Houara Hotel, Morocco
   dates:
   - *1
   - 2026-05-03
